@@ -15,4 +15,8 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
+#Evgeniy Samsonov ot 9compa 
+
+
 #комментарий 10 компьютер
+
