@@ -15,8 +15,9 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-#Evgeniy Samsonov ot 9compa 
-
+#Evgeniy Samsonov ot 9compa
 
 #комментарий 10 компьютер
-
+while(None):
+    a=0
+    print(a)
